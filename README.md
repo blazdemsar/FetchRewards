@@ -8,7 +8,7 @@
 # Installation - Importing Maven Project
 1. Open Eclipse
 2. Follow directions to create a working directory
-3. On your computer, navigate to your working directory and copy-paste FetchRewardsApp inside the folder
+3. On your computer, navigate to your working directory and copy-paste "FetchRewardsApp" inside the folder
 4. Once your screen is showing a Package Explorer on the left-hand side:
     - Click on "File"
     - Click on "Import..."
